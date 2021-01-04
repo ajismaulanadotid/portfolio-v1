@@ -1,5 +1,7 @@
 # my-website
 
+[Live](https://ajismaulanadotid.github.io/portfolio-v1)
+
 ### Tech Stack
 
 - HTML
@@ -9,5 +11,3 @@
 - Bootstrap
 - AOS
 - Sweat Alert
-
-[Live](https://ajismaulanadotid.github.io/portfolio-v1).
